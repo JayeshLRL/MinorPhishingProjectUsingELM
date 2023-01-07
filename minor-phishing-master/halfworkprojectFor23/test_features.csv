@@ -1,2 +1,0 @@
-url_address,url_host,url_path,rank_url_host,rank_country_url,url_host_len,url_len,url_asn_no,avg_url_token_len,url_token_count,url_token_max,avg_url_host_len,url_host_count,url_host_max,avg_url_path_len,url_path_count,url_path_max,url_safe_browsing,url_dots,url_security_words_count,ipaddress_existence
-http://xyz.com,xyz.com,,3258007,-1,7,14,-1,3.3333333333333335,3,4,3.0,2,3,0,0,0,-1,1,0,0
